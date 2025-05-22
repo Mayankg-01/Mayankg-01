@@ -13,14 +13,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1B_c-Ki3eWmXbREvfkCibOOVpJXAg2cY4/view?usp=sharing](https://drive.google.com/file/d/1B_c-Ki3eWmXbREvfkCibOOVpJXAg2cY4/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayank gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank gupta" height="30" width="40" /></a>
-</p>
-
-
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gupta_mayank01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gupta-mayank01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b322029@iiit-bh.ac.in) 
